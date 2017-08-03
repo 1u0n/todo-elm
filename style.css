@@ -123,15 +123,15 @@ header h1 {
 .new-todo-type {
     padding: 5px;
     float: right;
-    right: 50px;
+    right: 35px;
     position: relative;
-    top: 20px;
+    top: 23px;
 }
 
 i.category {
     margin-left: 5px !important;
     position: absolute;
-    right: 50px;
+    right: 35px;
     bottom: 33px;
     font-size: 14px;
 }
